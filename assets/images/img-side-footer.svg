@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="383" height="590" viewBox="0 0 383 590">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3532" data-name="Rectangle 3532" width="383" height="590" transform="translate(0 6040)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="img-side-footer" transform="translate(0 -6040)" clip-path="url(#clip-path)">
+    <g id="Group_30872" data-name="Group 30872">
+      <ellipse id="Ellipse_2151" data-name="Ellipse 2151" cx="18" cy="18" rx="18" ry="18" transform="matrix(-0.978, 0.208, -0.208, -0.978, 248.626, 6155.75)" fill="#7eaafe"/>
+      <g id="Group_30871" data-name="Group 30871">
+        <path id="Path_24780" data-name="Path 24780" d="M91.392,331.806C232.61,380.856,297.574,432.182,306.781,180.777s143.344-229.526,225.4,105.429S238.476,601.24,126.018,557.521-49.826,282.756,91.392,331.806Z" transform="translate(491.838 6245.666) rotate(106)" fill="#2b76ff" opacity="0.05"/>
+        <circle id="Ellipse_2153" data-name="Ellipse 2153" cx="18" cy="18" r="18" transform="translate(294.391 6415.219)" fill="#fa5b41"/>
+        <ellipse id="Ellipse_2150" data-name="Ellipse 2150" cx="14" cy="14" rx="14" ry="14" transform="matrix(-0.978, 0.208, -0.208, -0.978, 160.391, 6066.979)" fill="#cbddff"/>
+        <ellipse id="Ellipse_2152" data-name="Ellipse 2152" cx="14" cy="14" rx="14" ry="14" transform="matrix(-0.978, 0.208, -0.208, -0.978, 193.854, 6361.897)" fill="#cbddff"/>
+      </g>
+    </g>
+  </g>
+</svg>
