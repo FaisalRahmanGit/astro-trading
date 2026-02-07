@@ -65,12 +65,22 @@ assets/
 └── fonts/ # Custom fonts
 
 
+
 ---
 
-##  Live Demo
+## How to Run and Use the Project
 
-**GitHub Pages:**  
-https://faisalrahmangit.github.io/astro-trading
+This is a static website and does not require any backend or server setup.
+
+### Steps to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/faisalrahmangit/astro-trading.git
+2. Navigate to the project folder:
+        cd astro-trading
+3. Open index.html in any modern web browser
+(Chrome, Firefox, Edge, etc.)
 
 ---
 
@@ -95,4 +105,5 @@ It does **not** provide financial advice or real trading services.
 
 **Faisal Rahman**  
 GitHub: https://github.com/faisalrahmangit
+
 
